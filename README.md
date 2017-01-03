@@ -1,8 +1,8 @@
-### babel-plugin-require
+### babel-plugin-rax-env
 use
 ````
-{plugins: ["require", function (src) {return src}]}
+{plugins: ["rax-env", {
+    
+}]}
 
 ````
-you can use it get the deps  or you can you it to change the require('a') to require('b') 
-* it not surrport import, you can press it first to require
