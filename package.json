@@ -1,28 +1,54 @@
 {
-  "name": "babel-plugin-rax-env",
+  "name": "babel-plugin-require",
   "version": "0.0.1",
-  "description": "babel-plugin-rax-env",
-  "repository": "http://github.alibaba-inc.com/zhoujianlin8/babel-plugin-rax-env",
+  "description": "babel-plugin-require",
+  "repository": {
+    "type": "git",
+    "url": "http://github.alibaba-inc.com/zhoujianlin8/babel-plugin-require"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "fieDependencies":{},
-  "fieOption":{
+  "fieDependencies": {},
+  "fieOption": {
     "type": "normal"
   },
   "author": {
     "name": "zhoujianlin8",
     "email": "zhoujianlin8@gmail.com"
   },
-
-  "dependencies": {
-  },
+  "dependencies": {},
   "maintainers": [
     {
-      "name": "jianlin.zjl",
-      "email": "jianlin.zjl@alibaba-inc.com"
+      "name": "zhoujianlin",
+      "email": "zhoujianlin8@gmail.com"
     }
   ],
-  "readmeFilename": "README.md"
+  "gitHead": "c9369e05b2a5a88c3373bac82edf98b54b7bd3a4",
+  "_id": "babel-plugin-require@0.0.1",
+  "_shasum": "11a4b4ca0033e8dd6d25807967ff64042db264d2",
+  "_from": "babel-plugin-require@latest",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.7.0",
+  "_npmUser": {
+    "name": "zhoujianlin",
+    "email": "zhoujianlin8@gmail.com"
+  },
+  "dist": {
+    "shasum": "11a4b4ca0033e8dd6d25807967ff64042db264d2",
+    "size": 2187,
+    "noattachment": false,
+    "key": "babel-plugin-require/-/babel-plugin-require-0.0.1.tgz",
+    "tarball": "http://registry.npm.alibaba-inc.com/babel-plugin-require/download/babel-plugin-require-0.0.1.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/babel-plugin-require-0.0.1.tgz_1480939501932_0.7080097706057131"
+  },
+  "directories": {},
+  "publish_time": 1480939502529,
+  "_cnpm_publish_time": 1480939502529,
+  "_resolved": "http://registry.npm.alibaba-inc.com/babel-plugin-require/download/babel-plugin-require-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
 }
